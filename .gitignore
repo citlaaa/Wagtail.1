@@ -1,5 +1,5 @@
 # Ignora archivos de entornos virtuales
-venv/
+envu/
 *.pyc
 
 # Ignora archivos de Django/Wagtail generados localmente
